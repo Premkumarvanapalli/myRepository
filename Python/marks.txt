@@ -1,0 +1,5 @@
+branch name    mobile     eng maths
+cse3   prem    9010110870 60  70
+cse1   vasu    6300893630 10  20
+cse2   likki   7531268065 50  10
+cse3   soumya  1234567890 15  15
